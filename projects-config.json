@@ -1,0 +1,20 @@
+{
+    "description": "Multi-project sync configuration",
+    "projects": [
+        {
+            "name": "mc-after-sales-app",
+            "enabled": true,
+            "projectDir": "F:\\workspace\\git_workspace\\mc-after-sales-app\\service-app",
+            "targetDir": "F:\\workspace\\delivery\\MiniProgram_Tester\\after-sale-project\\mp-weixin",
+            "branch": "test"
+        },
+        {
+            "name": "mc-shop-app",
+            "enabled": true,
+            "projectDir": "F:\\workspace\\git_workspace\\mc-shop-app\\shop-app",
+            "targetDir": "F:\\workspace\\delivery\\MiniProgram_Tester\\shop-app-project\\mp-weixin",
+            "branch": "test"
+        }
+    ]
+}
+
