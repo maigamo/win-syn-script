@@ -17,7 +17,7 @@
   <a href="#-configuration">Configuration</a> •
   <a href="#-usage">Usage</a> •
   <a href="#-scheduled-tasks">Scheduled Tasks</a> •
-  <a href="./README_CN.md">中文文档</a>
+  <a href="https://github.com/maigamo/win-syn-script/blob/main/README_CN.md">中文文档</a>
 </p>
 
 ---
